@@ -1,0 +1,306 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.18953394889831543 Adjusted=0.8406653722881537 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "MV"];
+n -> n0;
+n1[label = "OPT2"];
+n -> n1;
+}
+
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.18953394889831543 Adjusted=0.8406653722881537 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "MV"];
+n -> n0;
+n1[label = "OPT2"];
+n -> n1;
+}
+
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.18953394889831543 Adjusted=0.8406653722881537 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "MV"];
+n -> n0;
+n1[label = "OPT2"];
+n -> n1;
+}
+
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.18953394889831543 Adjusted=0.8406653722881537 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "MV"];
+n -> n0;
+n1[label = "OPT2"];
+n -> n1;
+}
+
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.18953394889831543 Adjusted=0.8406653722881537 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Or"];
+n00[label = "EP"];
+n0 -> n00;
+n01[label = "MV"];
+n0 -> n01;
+n -> n0;
+n1[label = "OPT2"];
+n -> n1;
+}
+
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.16423186659812927 Adjusted=0.8589354308965853 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Or"];
+n00[label = "Or"];
+n000[label = "MV"];
+n00 -> n000;
+n001[label = "Inv"];
+n00 -> n001;
+n0 -> n00;
+n01[label = "OPT2"];
+n0 -> n01;
+n -> n0;
+n1[label = "MV"];
+n -> n1;
+}
+
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.16423186659812927 Adjusted=0.8589354308965853 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Or"];
+n00[label = "Or"];
+n000[label = "MV"];
+n00 -> n000;
+n001[label = "Inv"];
+n00 -> n001;
+n0 -> n00;
+n01[label = "OPT2"];
+n0 -> n01;
+n -> n0;
+n1[label = "MV"];
+n -> n1;
+}
+
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "MV"];
+n -> n0;
+n1[label = "If_Then"];
+n10[label = "Not"];
+n100[label = "EP"];
+n10 -> n100;
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "And"];
+n1100[label = "MV"];
+n110 -> n1100;
+n1101[label = "OPT2"];
+n110 -> n1101;
+n11 -> n110;
+n111[label = "If_Then"];
+n1110[label = "EP"];
+n111 -> n1110;
+n1111[label = "OPT2"];
+n111 -> n1111;
+n11 -> n111;
+n1 -> n11;
+n -> n1;
+}
+
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Not"];
+n00[label = "AL"];
+n0 -> n00;
+n -> n0;
+n1[label = "If_Then_Else"];
+n10[label = "MV"];
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "MV"];
+n11 -> n110;
+n111[label = "OPT2"];
+n11 -> n111;
+n1 -> n11;
+n12[label = "MV"];
+n1 -> n12;
+n -> n1;
+}
+
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Not"];
+n00[label = "AL"];
+n0 -> n00;
+n -> n0;
+n1[label = "If_Then_Else"];
+n10[label = "MV"];
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "MV"];
+n11 -> n110;
+n111[label = "OPT2"];
+n11 -> n111;
+n1 -> n11;
+n12[label = "MV"];
+n1 -> n12;
+n -> n1;
+}
+
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Not"];
+n00[label = "AL"];
+n0 -> n00;
+n -> n0;
+n1[label = "If_Then_Else"];
+n10[label = "MV"];
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "MV"];
+n11 -> n110;
+n111[label = "OPT2"];
+n11 -> n111;
+n1 -> n11;
+n12[label = "MV"];
+n1 -> n12;
+n -> n1;
+}
+
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Not"];
+n00[label = "AL"];
+n0 -> n00;
+n -> n0;
+n1[label = "If_Then_Else"];
+n10[label = "MV"];
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "MV"];
+n11 -> n110;
+n111[label = "OPT2"];
+n11 -> n111;
+n1 -> n11;
+n12[label = "Inv"];
+n1 -> n12;
+n -> n1;
+}
+
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.15788689255714417 Adjusted=0.863642214475321 Hits=0
+Tree 0:
+digraph g {
+node [shape=rectangle];
+n[label = "Do_While"];
+n0[label = "Not"];
+n00[label = "AL"];
+n0 -> n00;
+n -> n0;
+n1[label = "If_Then_Else"];
+n10[label = "MV"];
+n1 -> n10;
+n11[label = "Do_While"];
+n110[label = "MV"];
+n11 -> n110;
+n111[label = "OPT2"];
+n11 -> n111;
+n1 -> n11;
+n12[label = "MV"];
+n1 -> n12;
+n -> n1;
+}
+
